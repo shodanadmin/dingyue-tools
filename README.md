@@ -20,7 +20,6 @@
 - [Linux平台](#linux平台)
 - [Android平台](#android平台)
 - [iOS平台](#ios平台需非国区apple-id)
-- [免费节点资源](#免费节点资源)
 - [使用教程](#使用教程)
 - [常见问题](#常见问题)
 
@@ -264,19 +263,6 @@
 
 **iOS下载：** [Outline iOS](https://apps.apple.com/app/outline-app/id1356177741)  
 **macOS下载：** [Outline macOS](https://apps.apple.com/app/outline-secure-internet-access/id1356178125)
-
----
-
-## 免费节点资源
-
-### Karing免费节点
-**特点：** 提供全球免费节点，适合测试使用
-- ✅ 多地区节点
-- ✅ 定期更新
-- ✅ 配置简单
-
-**使用说明：** [Karing使用文档](https://karing.app/quickstart/)  
-**下载地址：** [Karing官网](https://karing.app/download/)
 
 ---
 
