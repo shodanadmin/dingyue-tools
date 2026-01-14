@@ -51,7 +51,7 @@
 
 ### 3. FlClash
 **特点：** Fluent UI风格的跨平台Clash.Meta客户端，界面现代化
-- ✅ 支持Windows/macOS/Android
+- ✅ 支持Windows/Linux/macOS/Android
 - ✅ 采用Fluent Design设计语言
 - ✅ 支持多种代理协议
 - ✅ 支持桌面小部件
@@ -71,10 +71,9 @@
 
 ---
 
-## Windows平台
-
-### 1. V2RayN
+### 5. V2RayN
 **特点：** 最常用的V2Ray Windows客户端，轻量级，配置简单
+- ✅ 支持Windows/macOS/Linux
 - ✅ 支持V2Ray/Xray核心
 - ✅ 支持多种协议（VMess/VLESS/Trojan等）
 - ✅ 支持订阅自动更新
@@ -84,7 +83,9 @@
 
 ---
 
-### 2. Clash for Windows
+## Windows平台
+
+### 1. Clash for Windows
 **特点：** 汉化版的Windows Clash客户端
 - ✅ 功能完整的Clash GUI
 - ✅ 支持规则分流
@@ -94,7 +95,7 @@
 
 ---
 
-### 3. NekoRay
+### 2. NekoRay
 **特点：** 基于Qt的跨平台代理客户端，支持多种协议
 - ✅ 支持Windows/Linux
 - ✅ 支持SS/V2Ray/Trojan等协议
@@ -361,4 +362,4 @@
 
 ---
 
-**最后更新：2026年1月5日**
+**最后更新：2026年1月14日**
